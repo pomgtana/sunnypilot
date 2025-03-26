@@ -3,8 +3,8 @@
   url = https://github.com/sunnyhaibin/panda.git
 [submodule "opendbc"]
   path = opendbc_repo
-	url = https://github.com/pomgtana/opendbc.git
-	branch = hrvthai
+  url = https://github.com/pomgtana/opendbc.git
+  branch = hrvthai
 [submodule "msgq"]
   path = msgq_repo
   url = https://github.com/sunnypilot/msgq.git
